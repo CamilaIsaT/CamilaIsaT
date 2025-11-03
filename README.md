@@ -1,9 +1,10 @@
 ## Hi there 👋
+![Stats](https://github-readme-stats.vercel.app/api?username=CamilaIsaT&show_icons=true&theme=tokyonight&hide=prs,issues)
 
 ## Let's Connect :coffee:
 <p align="center">
 	<a href="https://github.com/CamilaIsaT"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://ni.linkedin.com/in/camila-trejos-martinez-38768829b"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/abhisheksisodiya__/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 <!--
