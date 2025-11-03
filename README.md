@@ -7,6 +7,20 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=CamilaIsaT&show_icons=true&theme=tokyonight&hide=prs,issues)
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CamilaIsaT&show_icons=true&theme=radical)
 
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/iconsi=git,,css,discord,postgres,prisma,pug,dynamodb,figma,github,html,java,js,linux,md,materialui,nginx,,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+  </a>
+</p>
+
+
 ## Let's Connect :coffee:
 <p align="center">
 	<a href="https://github.com/CamilaIsaT"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
