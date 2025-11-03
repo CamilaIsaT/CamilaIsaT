@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![Stats](https://github-readme-stats.vercel.app/api?username=CamilaIsaT&show_icons=true&theme=tokyonight&hide=prs,issues)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CamilaIsaT&show_icons=true&theme=radical)
 
 ## Let's Connect :coffee:
 <p align="center">
