@@ -1,4 +1,9 @@
 ## Hi there 👋
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/23qnA8FAsitPT8hjFI/giphy.gif">
+</a>
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=CamilaIsaT&show_icons=true&theme=tokyonight&hide=prs,issues)
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CamilaIsaT&show_icons=true&theme=radical)
 
